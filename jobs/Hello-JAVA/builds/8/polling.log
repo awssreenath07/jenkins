@@ -1,0 +1,14 @@
+Started on Apr 27, 2021, 10:01:23 AM
+Started by event from 140.82.115.148 ⇒ http://52.203.248.34:7070/jenkins/github-webhook/ on Tue Apr 27 10:01:22 UTC 2021
+Using strategy: Default
+[poll] Last Built Revision: Revision fc030ebcc43245754d8d2a8eb582239e93dec98c (refs/remotes/origin/master)
+The recommended git tool is: NONE
+using credential github_credentails
+ > git --version # timeout=10
+ > git --version # 'git version 2.23.4'
+using GIT_ASKPASS to set credentials githubcredentails
+ > git ls-remote -h -- https://github.com/awssreenath07/Hello_Worl_Java.git # timeout=10
+Found 1 remote heads on https://github.com/awssreenath07/Hello_Worl_Java.git
+[poll] Latest remote head revision on refs/heads/master is: ae9cbb114874672f5a9689f9541ee66fa27d7fda
+Done. Took 0.1 sec
+Changes found

@@ -1,0 +1,7 @@
+Started by user [8mha:////4Nz4HoTdBaPISlmzQGWW/Aw5sJFfjRg4w0gd5QQIYia7AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/dLi1CL9xPLi4qLU1LzEkgwDcwCZIIHPyAAAAA==[0mawssreenath07
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/Hello_World
+[Hello_World] $ /bin/sh -xe /srinath/devops/apache-tomcat-8.5.60/temp/jenkins16952521979512411741.sh
++ echo 'Hello World, Lets start Jenkins learning.'
+Hello World, Lets start Jenkins learning.
+Finished: SUCCESS

@@ -1,0 +1,23 @@
+Started by user [8mha:////4Nz4HoTdBaPISlmzQGWW/Aw5sJFfjRg4w0gd5QQIYia7AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/dLi1CL9xPLi4qLU1LzEkgwDcwCZIIHPyAAAAA==[0mawssreenath07
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/Hello-JAVA
+The recommended git tool is: NONE
+using credential github_credentails
+Cloning the remote Git repository
+Cloning repository https://github.com/awssreenath07/Hello_Worl_Java.git
+ > git init /root/.jenkins/workspace/Hello-JAVA # timeout=10
+Fetching upstream changes from https://github.com/awssreenath07/Hello_Worl_Java.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.23.4'
+using GIT_ASKPASS to set credentials githubcredentails
+ > git fetch --tags --force --progress -- https://github.com/awssreenath07/Hello_Worl_Java.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/awssreenath07/Hello_Worl_Java.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 9c3d879e045511e3b69eca58e61cbeaff2a54152 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 9c3d879e045511e3b69eca58e61cbeaff2a54152 # timeout=10
+Commit message: "java file"
+First time build. Skipping changelog.
+Finished: SUCCESS

@@ -1,0 +1,13 @@
+Started on Apr 27, 2021, 9:48:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 407ee81feb939c35fa3a8a39bdcdb552ccafd012 (refs/remotes/origin/master)
+The recommended git tool is: NONE
+using credential github_credentails
+ > git --version # timeout=10
+ > git --version # 'git version 2.23.4'
+using GIT_ASKPASS to set credentials githubcredentails
+ > git ls-remote -h -- https://github.com/awssreenath07/Hello_Worl_Java.git # timeout=10
+Found 1 remote heads on https://github.com/awssreenath07/Hello_Worl_Java.git
+[poll] Latest remote head revision on refs/heads/master is: 407ee81feb939c35fa3a8a39bdcdb552ccafd012 - already built by 6
+Done. Took 0.11 sec
+No changes

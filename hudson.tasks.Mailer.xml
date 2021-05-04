@@ -1,0 +1,15 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.tasks.Mailer_-DescriptorImpl plugin="mailer@1.34">
+  <defaultSuffix>@gmail.com</defaultSuffix>
+  <hudsonUrl>http://54.204.168.253:9090/jenkins/</hudsonUrl>
+  <authentication>
+    <username>awssreenath07</username>
+    <password>{AQAAABAAAAAQD34m7QN1V40Nr4LioU1W9mT0pouwW4OppsPP6eVHjTg=}</password>
+  </authentication>
+  <replyToAddress>awssreenath07@gmail.com</replyToAddress>
+  <smtpHost>smtp.gmail.com</smtpHost>
+  <useSsl>true</useSsl>
+  <useTls>false</useTls>
+  <smtpPort>465</smtpPort>
+  <charset>UTF-8</charset>
+</hudson.tasks.Mailer_-DescriptorImpl>

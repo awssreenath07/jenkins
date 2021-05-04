@@ -1,0 +1,29 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/Hello-JAVA
+The recommended git tool is: NONE
+using credential github_credentails
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/awssreenath07/Hello_Worl_Java.git # timeout=10
+Fetching upstream changes from https://github.com/awssreenath07/Hello_Worl_Java.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.23.4'
+using GIT_ASKPASS to set credentials githubcredentails
+ > git fetch --tags --force --progress -- https://github.com/awssreenath07/Hello_Worl_Java.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 407ee81feb939c35fa3a8a39bdcdb552ccafd012 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 407ee81feb939c35fa3a8a39bdcdb552ccafd012 # timeout=10
+Commit message: "webhook added for testing"
+ > git rev-list --no-walk 0af963f38606d772427bcc5407cdad2fa970b760 # timeout=10
+[Hello-JAVA] $ /bin/sh -xe /srinath/devops/apache-tomcat-8.5.60/temp/jenkins14759121746898188922.sh
++ javac Hello_World.java
++ java Hello_World
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Hello Guys
+Lets start learning
+------- DEVOPS --------
+---Ho Ho Hoooooo
+WebHook added for testing
+Finished: SUCCESS

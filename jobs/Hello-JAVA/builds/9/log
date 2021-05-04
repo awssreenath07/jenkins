@@ -1,0 +1,38 @@
+Started by GitHub push by awssreenath07
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/Hello-JAVA
+The recommended git tool is: NONE
+using credential github_credentails
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/awssreenath07/Hello_Worl_Java.git # timeout=10
+Fetching upstream changes from https://github.com/awssreenath07/Hello_Worl_Java.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.23.4'
+using GIT_ASKPASS to set credentials githubcredentails
+ > git fetch --tags --force --progress -- https://github.com/awssreenath07/Hello_Worl_Java.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 487c7523b892a7d219d2667069e14dafdc4b77ab (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 487c7523b892a7d219d2667069e14dafdc4b77ab # timeout=10
+Commit message: "test-final"
+ > git rev-list --no-walk ae9cbb114874672f5a9689f9541ee66fa27d7fda # timeout=10
+[Hello-JAVA] $ /bin/sh -xe /srinath/devops/apache-tomcat-8.5.60/temp/jenkins5450868312997223834.sh
++ javac Hello_World.java
++ java Hello_World
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Hello Guys
+Lets start learning
+------- DEVOPS --------
+---Ho Ho Hoooooo
+WebHook added for testing
+Testing the build periodically
+Final line added to test WEBHOOK FROM GITHUB-77
+Final line added to test WEBHOOK FROM GITHUB-77
+Final line added to test WEBHOOK FROM GITHUB-77
+Final line added to test WEBHOOK FROM GITHUB-77
+Final line added to test WEBHOOK FROM GITHUB-77
+Final line added to test WEBHOOK FROM GITHUB-77
+Final line added to test WEBHOOK FROM GITHUB-77
+Final line added to test WEBHOOK FROM GITHUB-77
+Finished: SUCCESS

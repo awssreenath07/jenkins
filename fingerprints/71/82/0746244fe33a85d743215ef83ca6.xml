@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-04-27 16:07:20.652 UTC</timestamp>
+  <md5sum>71820746244fe33a85d743215ef83ca6</md5sum>
+  <fileName>Credential id=github_credentails-1 name=awssreenath07/****** (githubcredentails-1)</fileName>
+  <usages>
+    <entry>
+      <string>Maven-Iwaq</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Maven-Sample</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
